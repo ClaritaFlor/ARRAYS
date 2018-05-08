@@ -1,0 +1,11 @@
+Funciones sort(), asort() y ksort() para ordenar arrays
+En este post tenéis ejemplos para ordenar arrays: Ordenar arrays con PHP sort(), asort() y ksort().
+
+Añadir y eliminar elementos de un array con PHP array_push() y unset()
+Con la función PHP array_push() podemos añadir elementos al array y con unset() eliminarlos.
+
+Contar el número de elementos en un array con PHP count()
+En este otro post usando la función PHP count() consigo contar el número de elementos de un array.
+
+Sacar el valor de un array por pantalla
+Para sacar el valor de un array por pantalla podemos usar la función PHP var_export() o PHP var_dump().
